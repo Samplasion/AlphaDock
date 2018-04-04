@@ -1,0 +1,9 @@
+Package: com.samplasion.alphadock
+Name: AlphaDock
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Make your dock transparent!
+Maintainer: Samplasion <samplasion@gmail.com>
+Author: Samplasion <samplasion@gmail.com>
+Section: Tweaks
